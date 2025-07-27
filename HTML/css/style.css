@@ -59,7 +59,7 @@ table {
     width: 100%;
     border-collapse: collapse;
     font-family: 'Kanit', sans-serif;
-    color: #ffffff; /* ตัวอักษรสีขาว */
+    color: #ffffff; 
     margin-top: 30px;
 }
 
@@ -67,16 +67,16 @@ th, td {
     border: 1px solid orange;
     padding: 10px;
     text-align: center;
-    background-color: #111; /* เพิ่มพื้นหลังสีเข้ม */
+    background-color: #111; 
 }
 
 th {
-    background-color: #e67e22; /* สีหัวตารางส้ม */
+    background-color: #e67e22; 
     color: #fff;
 }
 
 tfoot td {
     font-weight: bold;
-    background-color: #222;  /* เพิ่มพื้นหลังให้เห็นข้อความ */
-    color: #ffffff;          /* สีตัวอักษรชัดเจน */
+    background-color: #222;  
+    color: #ffffff;          
 }
